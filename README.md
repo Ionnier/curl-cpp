@@ -1,2 +1,2 @@
 # rest-api-cpp
-Testing webserver API using CURL.
+Testing webserver API using CURL in C++.
